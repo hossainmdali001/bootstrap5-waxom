@@ -1,0 +1,600 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+/* header part  */
+.navbar-toggler:focus {
+    box-shadow: none;
+}
+.navbar-toggler i{
+    font-size: 20px;
+}
+
+.menu ul li a {
+    font-size: 15px;
+    padding: 5px 0px;
+}
+/* slider part  */
+.slider_overlay {
+    padding-top: 110px;
+    padding-bottom: 110px;
+}
+.slider_text h3{
+    font-size: 22px;
+    line-height: 24px;
+}
+.slider_text h1{
+    font-size: 26px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.slider_text p{
+    font-size: 16px;
+}
+.btn{
+    width: 160px;
+    padding: 8px;
+    font-size: 14px;
+}
+ /* service part  */
+ #service {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.service_icon{
+    text-align: center;
+}
+.service_icon i {
+    font-size: 30px;
+}
+.service_text h3 {
+    font-size: 18px;
+    padding-top: 15px;
+}
+.service_text p{
+    font-size: 13px;
+}
+/* idea part  */
+#idea {
+    padding-top: 25px;
+}
+
+.idea_text h3 {
+    font-size: 24px;
+    line-height: 24px;
+}
+.idea_text p {
+    padding-top: 15px;
+    font-size: 15px;
+}
+.idea_img{
+    text-align: center;
+}
+/* pursase part  */
+#pursase {
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+.pursase_text p {
+    padding-top: 15px;
+    font-size: 16px;
+    line-height: 22px;
+}
+.pursase_btn{
+    text-align: center;
+    margin-top: 25px;
+}
+.pursase_btn button {
+    width: 40%;
+    font-size: 11px;
+}
+.pursase_text h3 {
+    font-size: 20px;
+    line-height: 22px;
+}
+/* portfolio part start  */
+#portfolio {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.portfolio_text h3 {
+    font-size: 17px;
+    line-height: 18px;
+}
+.portfolio_btn button{
+    margin-top: 10px;
+}
+.port_btn{
+    text-align: center;
+}
+.port_btn button{
+    width: 160px;
+    padding: 8px;
+    font-size: 14px;
+}
+/* video part  */
+.video_overlay {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.video_icon i {
+    font-size: 40px;
+}
+.video_text p {
+    font-size: 16px;
+    padding-top: 20px;
+}
+.video_text h3{
+    font-size: 23px;
+}
+.video_text {
+    margin-top: 28px;
+}
+/* mobile part  */
+#mobile {
+    padding-top: 40px;
+}
+.mobile_text {
+    margin-top: 40px;
+}
+.mobile_text h3 {
+    font-size: 21px;
+}
+.mobile_text p {
+    font-size: 15px;
+    padding-top: 14px;
+}
+/* counter part  */
+#counter {
+    padding-top: 10px;
+    padding-bottom: 40px;
+}
+.counter_icon i {
+    font-size: 30px;
+}
+.counter_text h3 {
+    font-size: 35px;
+}
+.counter_icon{
+    padding-top: 50px;
+}
+.counter_text {
+    margin-top: 15px;
+}
+.counter_text p:after {
+    bottom: -20px;
+}
+/* blog part  */
+#blog {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.blog_text h3 {
+    font-size: 16px;
+    line-height: 20px;
+}
+.blog_text p {
+    font-size: 15px;
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+/* contact part  */
+.contact_overlay {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.c_icon{
+    text-align: center;
+    margin-top: 40px;
+}
+/* footer part  */
+#footer{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+/* .footer_logo{
+    text-align: right;
+}
+.footer_1st_text{
+    text-align: center;
+}
+.foot_head_txt{
+    text-align: center;
+    margin-top: 35px;
+}
+.foot_3rd_txt{
+    text-align: center;
+}
+.foot_2nd{
+    text-align: center;
+} */
+
+}
+
+/* Small devices (landscape phones, 576px and up)  */
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    /* header part  */
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+  
+    .navbar-toggler i{
+        font-size: 20px;
+    }
+    .menu ul li a {
+        font-size: 15px;
+    }
+/* slider part  */
+.slider_overlay {
+    padding-top: 110px;
+    padding-bottom: 110px;
+}
+.slider_text h3{
+    font-size: 32px;
+}
+.btn{
+    width: 180px;
+    padding: 8px;
+    font-size: 15px;
+}
+.slider_text h1{
+    font-size: 40px;
+}
+.slider_text p{
+    font-size: 16px;
+}
+/* service part  */
+#service {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.service_icon{
+    text-align: center;
+}
+.service_icon i {
+    font-size: 30px;
+}
+.service_text h3 {
+    font-size: 18px;
+    padding-top: 15px;
+}
+.service_text{
+    text-align: center;
+}
+/* idea part  */
+#idea {
+    padding-top: 50px;
+}
+.idea_text h3 {
+    font-size: 26px;
+}
+.idea_text p {
+    padding-top: 15px;
+    font-size: 15px;
+}
+.idea_img{
+    text-align: center;
+}
+/* pursase part  */
+#pursase {
+    padding-top: 45px;
+    padding-bottom: 45px;
+}
+.pursase_text p {
+    padding-top: 15px;
+}
+.pursase_btn{
+    text-align: center;
+    margin-top: 25px;
+}
+.pursase_btn button {
+    width: 24%;
+    font-size: 13px;
+}
+.pursase_text h3 {
+    font-size: 26px;
+}
+/* portfolio part  */
+#portfolio {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.idea_text p {
+    padding-bottom: 25px;
+}
+.portfolio_text h3 {
+    font-size: 18px;
+    line-height: 18px;
+}
+.port_btn {
+    margin-top: 50px;
+    text-align: center;
+}
+.portfolio_btn button {
+    font-size: 15px;
+    padding: 7px 8px;
+}
+.img-fluid {
+    max-width: 100%;
+}
+.port_btn button {
+    width: 180px;
+    padding: 8px;
+    font-size: 15px;
+}
+/* video part  */
+.video_overlay {
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+.video_icon i {
+    font-size: 50px;
+}
+.video_text p {
+    padding-top: 20px;
+}
+.video_text {
+    margin-top: 28px;
+}
+/* mobile part  */
+.mobile_text {
+    margin-top: 5px;
+}
+.mobile_text h3 {
+    font-size: 21px;
+}
+.mobile_text p {
+    font-size: 15px;
+    padding-top: 14px;
+}
+/* counter part  */
+#counter {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.counter_icon i {
+    font-size: 30px;
+}
+.counter_text h3 {
+    font-size: 35px;
+}
+.counter_icon{
+    margin-top: 50px;
+}
+.counter_text {
+    margin-top: 15px;
+}
+.counter_text p:after {
+    bottom: -20px;
+}
+/* blog part start  */
+#blog {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.blog_text h3 {
+    font-size: 16px;
+    line-height: 20px;
+}
+.blog_text p {
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+/* contact part start  */
+.contact_overlay {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.c_icon{
+    text-align: center;
+    margin-top: 40px;
+}
+
+/* footer part  */
+.footer_logo{
+    text-align: center;
+}
+.footer_1st_text{
+    text-align: center;
+}
+.foot_head_txt{
+    text-align: center;
+    margin-top: 35px;
+}
+.foot_3rd_txt{
+    text-align: center;
+}
+.foot_2nd{
+    text-align: center;
+}
+
+
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+/* header part  */
+.navbar-nav{
+    text-align: center;
+}
+.navbar-toggler:focus {
+   
+    box-shadow: none;
+}
+/* slider part  */
+.slider_overlay {
+    padding-top: 130px;
+    padding-bottom: 130px;
+}
+.slider_text h3{
+    font-size: 34px;
+}
+.slider_text h1{
+    font-size: 45px;
+}
+.slider_text p{
+    font-size: 17px;
+}
+.btn{
+    width: 190px;
+    font-size: 15px;
+}
+/* service part  */
+#service {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.service_icon{
+    text-align: center;
+}
+.service_icon i {
+    font-size: 35px;
+}
+.service_text{
+    text-align: center;
+}
+.service_text h3 {
+    font-size: 19px;
+    padding-top: 15px;
+}
+.service_text p {
+    font-size: 15px;
+}
+/* idea part  */
+#idea {
+    padding-top: 60px;
+}
+.idea_text h3 {
+    font-size: 28px;
+}
+.idea_text p {
+    padding-top: 15px;
+}
+/* pursase part  */
+#pursase {
+    padding-top: 45px;
+    padding-bottom: 45px;
+}
+.pursase_text p {
+    padding-top: 15px;
+}
+.pursase_btn{
+    text-align: center;
+    margin-top: 25px;
+}
+.pursase_btn button {
+    width: 24%;
+    font-size: 14px;
+}
+/* portfolio part  */
+#portfolio {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.idea_text p {
+    padding-bottom: 25px;
+}
+.portfolio_text h3 {
+    font-size: 18px;
+    line-height: 18px;
+}
+.port_btn {
+    margin-top: 40px;
+    text-align: center;
+}
+/* video part  */
+.video_overlay {
+    padding-top: 110px;
+    padding-bottom: 110px;
+}
+.video_icon i {
+    font-size: 55px;
+}
+.video_text p {
+    padding-top: 20px;
+}
+.video_text {
+    margin-top: 28px;
+}
+/* mobile part  */
+#mobile {
+    padding-top: 60px;
+}
+.mobile_text h3 {
+    font-size: 28px;
+}
+.mobile_text p{
+    font-size: 16px;
+}
+.mbl_btn_text ul li {
+   font-size: 15px;
+}
+/* counter part  */
+#counter {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.counter_icon i {
+    font-size: 35px;
+}
+.counter_text h3 {
+    font-size: 40px;
+}
+/* blog part  */
+#blog {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.blog_text h3 {
+    font-size: 16px;
+    line-height: 20px;
+}
+.blog_text p {
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+/* contact part  */
+.contact_overlay {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+/* portfolio part  */
+#footer {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    /* pursase part  */
+    .pursase_text h3 {
+        font-size: 24px;
+    }
+    .pursase_btn button {
+        width: 98%;
+        font-size: 13px;
+    }
+    .pursase_text p {
+        padding-top: 13px;
+    }
+    /* portfolio part  */
+    .portfolio_btn button {
+        padding: 8px 6px;
+    }
+    
+    
+    
+}
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+}
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {
+
+}
